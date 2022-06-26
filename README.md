@@ -14,3 +14,8 @@ All you have to do now is to produce a CSV from this JSON object and import it i
 
 4. You normally get a .csv file named obsidian_data.csv that you can import directly into Gephi
 
+## Requirements
+
+- Node JS
+- [Objects-to-csv]([url](https://www.npmjs.com/package/objects-to-csv))
+
