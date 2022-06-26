@@ -1,0 +1,20 @@
+ Ce guide permet importer les données de son réseau d'Obsidian directement dans un logiciel tel que Gephi, ou n'importe quelle autre logiciel permettant de faire de l'analyse de graph.
+
+
+1. En utilisant la commande "this.app.metadataCache.resolvedLinks" dans la console du développeur, vous pouvez obtenir un objet JSON contenant toutes vos notes et tous vos liens.
+
+Il ne vous reste plus qu'à générer un CSV à partir de cet objet JSON et à l'importer dans Gephi.
+
+
+
+2. Copier l'objet obtenu dans votre presse-papiers et coller le dans un fichier que vous nommerez obsidian_data.json
+
+
+
+3. Utiliser le script network_json_to_csv.js, téléchargez-le et exécutez-le dans le même  répertoire que votre fichier JSON.
+
+
+
+4. Vous obtenez normalement un fichier .csv nommé obsidian_data.csv que vous pouvez importer directement dans Gephi
+
+
