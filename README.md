@@ -17,5 +17,5 @@ All you have to do now is to produce a CSV from this JSON object and import it i
 ## Requirements
 
 - Node JS
-- [Objects-to-csv]([url](https://www.npmjs.com/package/objects-to-csv))
+- [Objects-to-csv](https://www.npmjs.com/package/objects-to-csv)
 
