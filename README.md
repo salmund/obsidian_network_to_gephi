@@ -18,7 +18,7 @@ All you have to do now is to produce a CSV from this JSON object and import it i
 
 1. Get your JSON data in the same way as in the first method
 
-2. Use the python json_to_gexf.py
+2. Use the python json_to_gexf.py script
 
 ```
 usage: json_to_gexf.py [-h] [--i I] [--o O]
