@@ -19,3 +19,6 @@ All you have to do now is to produce a CSV from this JSON object and import it i
 - [Node JS](https://nodejs.org/en/)
 - [Objects-to-csv](https://www.npmjs.com/package/objects-to-csv)
 
+# Acknowledgements
+
+- [Marc Julian](https://www.marc-julian.de/) for his python script
